@@ -12,6 +12,7 @@ The chatbot is powered by Llama-2, enabling natural language understanding and i
 Ask questions about recent events, specific topics, or articles by a particular author.
 Request summaries or detailed explanations of news stories.
 Filter results based on criteria like publication date, topic, or location.
+
 3. MongoDB News Database
 The backend stores news articles in MongoDB, enabling scalable data storage and efficient retrieval. PyMongo connects the backend to MongoDB, and data is automatically populated through web scraping scripts to ensure the database remains current.
 
