@@ -20,7 +20,7 @@ The backend stores news articles in MongoDB, enabling scalable data storage and 
 Articles are collected from various news sources using automated web scraping, which updates the MongoDB database in real-time. The application ensures that the chatbot always has access to the latest information.
 
 Technology Stack
-Frontend: React, HTML, CSS, Axios (for API requests)
+Frontend: React, HTML, CSS,
 Backend: FastAPI, MongoDB (with PyMongo)
 Chatbot: Llama-2 conversational AI model
 ASGI Server: Uvicorn
