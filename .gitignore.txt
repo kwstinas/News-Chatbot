@@ -1,0 +1,6 @@
+# Αγνόησε το virtual environment
+venv/
+# Αγνόησε άλλα προσωρινά ή περιττά αρχεία
+__pycache__/
+*.pyc
+*.log
